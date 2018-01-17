@@ -1,0 +1,1 @@
+# idrac-startup-script
